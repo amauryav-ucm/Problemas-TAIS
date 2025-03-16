@@ -1,0 +1,4 @@
+casos/
+*.exe
+*.out
+.vscode/
